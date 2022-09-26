@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2022-01-09T11:29:50 EST" finished-at="2022-01-09T11:29:50 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2022-01-09T11:29:50 EST" finished-at="2022-01-09T11:29:50 EST">
+      <class name="array_vs_arraylist.Array_Vs_List">
+        <test-method status="PASS" signature="methodArray_Vs_List()[pri:0, instance:array_vs_arraylist.Array_Vs_List@5460b754]" name="methodArray_Vs_List" duration-ms="13" started-at="2022-01-09T11:29:50 EST" finished-at="2022-01-09T11:29:50 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodArray_Vs_List -->
+      </class> <!-- array_vs_arraylist.Array_Vs_List -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
